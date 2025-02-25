@@ -31,6 +31,6 @@
 
 ## Коммит изменений
 
-1.  Добавьте изменения в индекс: `git add src/main/java/com/pozwizd/lesson1/basic/Main.java`
+1.  Добавьте изменения в индекс: `git add src/main/java/com/pozwizd/lesson1/`
 2.  Зафиксируйте изменения с сообщением: `git commit -m "Решил задачу урока 1"`
 3.  Отправьте изменения на GitHub: `git push`
